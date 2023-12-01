@@ -2,4 +2,4 @@ gorilla で簡単に websocket をやってみたので、テンプレートと�
 <br>
 [gorilla/websocket](https://github.com/gorilla/websocket)<br>
 
-[Send WebSocket requests with Postman](Send WebSocket requests with Postman)
+[Send WebSocket requests with Postman](https://learning.postman.com/docs/sending-requests/websocket/websocket-overview/)
